@@ -55,6 +55,10 @@ export default defineConfig({
           {
             text: 'Icon Overview',
             link: '/cratty/icon-overview'
+          },
+          {
+            text: 'Use Icons',
+            link: '/cratty/use-icons'
           }
         ]
       },
