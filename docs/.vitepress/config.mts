@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   lang: 'en-US',
 
-  title: 'CoffeeDevs Docs',
+  title: 'CoffeeDevs Docs beta',
   description: 'CoffeeDevs Documentation for all of our Projects',
 
   base: '/',
@@ -40,6 +40,10 @@ export default defineConfig({
         text: 'CoffeeDevs',
         items: [
           {
+            text: 'Getting Started',
+            link: '/selection'
+          },
+          {
             text: 'Licenses',
             link: '/licenses'
           }
@@ -49,7 +53,7 @@ export default defineConfig({
         text: 'Cratty',
         items: [
           {
-            text: 'Getting Started with Cratty',
+            text: 'Getting Started',
             link: '/cratty/getting-started'
           },
           {
@@ -66,21 +70,12 @@ export default defineConfig({
         text: 'Fallback',
         items: [
           {
-            text: 'Getting Started with Fallback',
+            text: 'Getting Started',
             link: '/fallback/getting-started'
           },
           {
             text: 'Installation',
             link: '/fallback/installation'
-          }
-        ]
-      },
-      {
-        text: 'No Foliage',
-        items: [
-          {
-            text: 'Getting Started with No Foliage',
-            link: '/nofoliage/getting-started'
           }
         ]
       }
