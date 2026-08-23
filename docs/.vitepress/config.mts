@@ -51,6 +51,10 @@ export default defineConfig({
           {
             text: 'Getting Started with Cratty',
             link: '/cratty/getting-started'
+          },
+          {
+            text: 'Icon Overview',
+            link: '/cratty/icon-overview'
           }
         ]
       },
