@@ -42,8 +42,8 @@ export default defineConfig({
         text: 'Cratty',
         items: [
           {
-            text: 'Getting Started',
-            link: '/cratty'
+            text: 'Getting Started with Cratty',
+            link: '/cratty/getting-started'
           }
         ]
       },
@@ -51,8 +51,8 @@ export default defineConfig({
         text: 'Fallback',
         items: [
           {
-            text: 'Getting Started',
-            link: '/fallback'
+            text: 'Getting Started with Fallback',
+            link: '/fallback/getting-started'
           },
           {
             text: 'Installation',
@@ -64,8 +64,8 @@ export default defineConfig({
         text: 'No Foliage',
         items: [
           {
-            text: 'Getting Started',
-            link: '/nofoliage'
+            text: 'Getting Started with No Foliage',
+            link: '/nofoliage/getting-started'
           }
         ]
       }
@@ -96,7 +96,7 @@ export default defineConfig({
     },
 
     footer: {
-      message: 'Made with VitePress by Intensed',
+      message: 'Made with VitePress by CoffeeDevs',
       copyright: 'Copyright © 2026 CoffeeDevs'
     }
   }
