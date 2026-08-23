@@ -54,7 +54,7 @@ export default defineConfig({
         link: 'https://modrinth.com/organization/coffeedevs'
       },
       {
-        icon: 'Discord',
+        icon: 'discord',
         link: 'https://discord.gg/JNEYvDfQW'
       }
     ],
