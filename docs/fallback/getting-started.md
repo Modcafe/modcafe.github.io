@@ -1,6 +1,7 @@
 ---
 title: Fallback
 authors: Intensed
+prev: false
 ---
 
 # Getting Started with Fallback
