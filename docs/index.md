@@ -3,7 +3,7 @@ layout: home
 
 hero:
   name: CoffeeDevs
-  text: Documentation for our Projects
+  text: docs
   tagline: Developer documentation for CoffeeDevs
   actions:
     - theme: brand
