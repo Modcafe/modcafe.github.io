@@ -1,6 +1,8 @@
 ---
 layout: home
 
+sidebar: true
+
 hero:
   name: CoffeeDevs
   text: docs
