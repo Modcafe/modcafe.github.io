@@ -25,9 +25,17 @@ You can download and install Fallback using three different methods:
 6. Create and open the world
 
 ### 3. Installing Fallback as a Mod
-::: danger Why is there no Tutorial?
+::: danger Why is there no Tutorial for my Launcher?
 Every Mod-Loader and Programm installs Mods differently. We can't provide the ONE always working answer.
 :::
 
+::: details via Modrinth App
+1. Go to thr Launcher
+2. Click on "Library" at the sidebar
+3. Open your instance or create a new one
+4. Click on "Browse Content"
+5. Search for `Fallback` and click on "Install"
+6. Start the Instance
+:::
 
 If you've installed Fallback, you're ready to go.
