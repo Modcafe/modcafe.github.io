@@ -1,4 +1,18 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap');
+
+.inter-<uniquifier> {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+.jetbrains-mono-<uniquifier> {
+  font-family: "JetBrains Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
 
 :root {
   /* Modrinth Green */
@@ -7,6 +21,6 @@
   --vp-c-brand-3: #15ad54;
 
   /* Fonts */
-  --vp-font-family-base: "Inter", sans-serif;
-  --vp-font-family-mono: "JetBrains Mono", monospace;
+  --vp-font-family-base: "Inter", Inter, sans-serif;
+  --vp-font-family-mono: "JetBrains Mono", JetBrains Mono, monospace;
 }
