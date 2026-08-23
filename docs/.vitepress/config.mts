@@ -21,12 +21,16 @@ export default defineConfig({
       {
         text: 'GitHub',
         link: 'https://github.com/coffeedevsmc'
+      },
+      {
+        text: 'Discord',
+        link: 'https://discord.gg/JNEYvDfQW'
       }
     ],
 
     sidebar: [
       {
-        text: 'Documentation',
+        text: 'CoffeDevs docs',
         items: [
           {
             text: 'Home',
@@ -48,6 +52,10 @@ export default defineConfig({
       {
         icon: 'modrinth',
         link: 'https://modrinth.com/organization/coffeedevs'
+      },
+      {
+        icon: 'Discord',
+        link: 'https://discord.gg/JNEYvDfQW'
       }
     ],
 
