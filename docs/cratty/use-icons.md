@@ -1,6 +1,7 @@
 ---
 title: How To Use Cratty Icons
 author: Intensed
+next: false
 ---
 
 # How to Use Cratty Icons
