@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   lang: 'en-US',
+  head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
 
   title: 'CoffeeDevs Docs',
   description: 'CoffeeDevs Documentation for all of our Projects',
