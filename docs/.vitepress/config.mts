@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   lang: 'en-US',
 
-  title: 'CoffeeDevs Documentation',
+  title: 'CoffeeDevs Docs',
   description: 'CoffeeDevs Documentation for all of our Projects',
 
   base: '/',
@@ -11,12 +11,12 @@ export default defineConfig({
   cleanUrls: true,
 
   themeConfig: {
-    logo: '/logo.svg',
+    logo: '/CoffeeDevs_final.png',
 
     nav: [
       {
-        text: 'Projects',
-        link: '/projects'
+        text: 'Modrinth',
+        link: 'https://modrinth.com/organization/coffeedevs'
       },
       {
         text: 'GitHub',
@@ -44,6 +44,10 @@ export default defineConfig({
       {
         icon: 'github',
         link: 'https://github.com/coffeedevsmc'
+      },
+      {
+        icon: 'modrinth',
+        link: 'https://modrinth.com/organization/coffeedevs'
       }
     ],
 
@@ -53,11 +57,11 @@ export default defineConfig({
 
     editLink: {
       pattern: 'https://github.com/coffeedevsmc/coffeedevsmc.github.io/edit/main/docs/:path',
-      text: 'Edit this page on GitHub'
+      text: 'Edit this page'
     },
 
     footer: {
-      message: 'CoffeeDevs',
+      message: 'Made with VitePress by Intensed',
       copyright: 'Copyright © 2026 CoffeeDevs'
     }
   }
