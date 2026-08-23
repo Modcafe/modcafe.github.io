@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap');
+
+:root {
+  /* Modrinth Green */
+  --vp-c-brand-1: #1bd96a;
+  --vp-c-brand-2: #18c45f;
+  --vp-c-brand-3: #15ad54;
+
+  /* Fonts */
+  --vp-font-family-base: "Inter", sans-serif;
+  --vp-font-family-mono: "JetBrains Mono", monospace;
+}
