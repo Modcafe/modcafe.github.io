@@ -11,7 +11,7 @@ export default defineConfig({
   cleanUrls: true,
 
   themeConfig: {
-    logo: '/CoffeeDevs_final.png',
+    logo: '/CoffeeDevs.png',
     lastUpdated: {
       text: 'Last Updated at',
       formatOptions: {
