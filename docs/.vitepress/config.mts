@@ -3,11 +3,9 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   lang: 'en-US',
 
-  title: 'CoffeeDevs',
-  description: 'Documentation for CoffeeDevs Projects',
+  title: 'CoffeeDevs Documentation',
+  description: 'CoffeeDevs Documentation for all of our Projects',
 
-  // For:
-  // https://coffeedevsmc.github.io/
   base: '/',
 
   cleanUrls: true,
@@ -17,68 +15,26 @@ export default defineConfig({
 
     nav: [
       {
-        text: 'Guide',
-        link: '/getting-started'
-      },
-      {
-        text: 'API',
-        link: '/api/'
+        text: 'Projects',
+        link: '/projects'
       },
       {
         text: 'GitHub',
-        link: 'https://github.com/coffeedevsmc/coffeefevsmc.github.io'
+        link: 'https://github.com/coffeedevsmc'
       }
     ],
 
     sidebar: [
       {
-        text: 'Getting Started',
+        text: 'Documentation',
         items: [
           {
-            text: 'Introduction',
+            text: 'Home',
             link: '/'
           },
           {
-            text: 'Getting Started',
-            link: '/getting-started'
-          },
-          {
-            text: 'Installation',
-            link: '/installation'
-          }
-        ]
-      },
-
-      {
-        text: 'Guide',
-        collapsed: false,
-        items: [
-          {
-            text: 'Overview',
-            link: '/guide/'
-          },
-          {
-            text: 'Configuration',
-            link: '/guide/configuration'
-          },
-          {
-            text: 'Usage',
-            link: '/guide/usage'
-          }
-        ]
-      },
-
-      {
-        text: 'API Reference',
-        collapsed: true,
-        items: [
-          {
-            text: 'Overview',
-            link: '/api/'
-          },
-          {
-            text: 'Reference',
-            link: '/api/reference'
+            text: 'Projects',
+            link: '/projects'
           }
         ]
       }
@@ -101,7 +57,7 @@ export default defineConfig({
     },
 
     footer: {
-      message: 'Released under the IGPL-1.0 License.',
+      message: 'CoffeeDevs',
       copyright: 'Copyright © 2026 CoffeeDevs'
     }
   }
