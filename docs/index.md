@@ -8,7 +8,7 @@ hero:
   actions:
     - theme: brand
       text: Get Started
-      link: /getting-started
+      link: /selection
     - theme: alt
       text: Modrinth
       link: https://modrinth.com/organization/coffeedevs
