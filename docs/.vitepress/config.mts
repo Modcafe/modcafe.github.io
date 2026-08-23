@@ -37,6 +37,33 @@ export default defineConfig({
             link: '/licenses'
           }
         ]
+      },
+      {
+        text: 'Cratty',
+        items: [
+          {
+            text: 'Getting Started',
+            link: '/cratty'
+          }
+        ]
+      },
+      {
+        text: 'Fallback',
+        items: [
+          {
+            text: 'Getting Started',
+            link: '/fallback'
+          }
+        ]
+      },
+      {
+        text: 'No Foliage',
+        items: [
+          {
+            text: 'Getting Started',
+            link: '/nofoliage'
+          }
+        ]
       }
     ],
 
