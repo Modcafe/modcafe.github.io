@@ -2,6 +2,7 @@
 title: Licenses
 date: 2026-08-23
 author: Intensed
+next: false
 ---
 
 # Licenses
