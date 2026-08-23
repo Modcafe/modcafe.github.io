@@ -4,8 +4,8 @@ export default defineConfig({
   lang: 'en-US',
   head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
 
-  title: 'CoffeeDevs Docs',
-  description: 'CoffeeDevs Documentation for all of our Projects',
+  title: 'Modcafe Docs',
+  description: 'Modcafe Documentation for all of our Projects',
 
   base: '/',
 
@@ -24,11 +24,11 @@ export default defineConfig({
     nav: [
       {
         text: 'Modrinth',
-        link: 'https://modrinth.com/organization/coffeedevs'
+        link: 'https://modrinth.com/organization/modcafe'
       },
       {
         text: 'GitHub',
-        link: 'https://github.com/coffeedevsmc'
+        link: 'https://github.com/modcafe'
       },
       {
         text: 'Discord',
@@ -38,7 +38,7 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'CoffeeDevs',
+        text: 'Modcafe',
         items: [
           {
             text: 'Getting Started',
@@ -85,11 +85,11 @@ export default defineConfig({
     socialLinks: [
       {
         icon: 'github',
-        link: 'https://github.com/coffeedevsmc'
+        link: 'https://github.com/modcafe'
       },
       {
         icon: 'modrinth',
-        link: 'https://modrinth.com/organization/coffeedevs'
+        link: 'https://modrinth.com/organization/modcafe'
       },
       {
         icon: 'discord',
@@ -102,13 +102,13 @@ export default defineConfig({
     },
 
     editLink: {
-      pattern: 'https://github.com/coffeedevsmc/coffeedevsmc.github.io/edit/main/docs/:path',
+      pattern: 'https://github.com/modcafe/modcafe.github.io/edit/main/docs/:path',
       text: 'Edit this page'
     },
 
     footer: {
-      message: 'Made with VitePress by CoffeeDevs',
-      copyright: 'Copyright © 2026 CoffeeDevs'
+      message: 'Made with VitePress by Modcafe',
+      copyright: 'Copyright © 2026 Modcafe'
     }
   }
 })
