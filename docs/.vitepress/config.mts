@@ -12,6 +12,13 @@ export default defineConfig({
 
   themeConfig: {
     logo: '/CoffeeDevs_final.png',
+    lastUpdated: {
+      text: 'Last Updated at',
+      formatOptions: {
+        dateStyle: 'full',
+        timeStyle: 'medium'
+      }
+    },
 
     nav: [
       {
