@@ -1,2 +1,2 @@
-# [CoffeeDevs Docs](https://coffeedevsmc.github.io)
-Official Documentation for CoffeeDevsMC
+# [Modcafe Docs](https://modcafe.github.io)
+Official Documentation for Modcafe
