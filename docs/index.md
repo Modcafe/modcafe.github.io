@@ -4,29 +4,29 @@ layout: home
 sidebar: true
 
 hero:
-  name: CoffeeDevs
+  name: Modcafe
   text: docs
-  tagline: Developer documentation for CoffeeDevs
+  tagline: Developer documentation for Modcafe
   image:
     src: /CoffeeDevs.png
-    alt: CoffeeDevs
+    alt: Modcafe
   actions:
     - theme: brand
       text: Get Started
       link: /selection
     - theme: alt
       text: Modrinth
-      link: https://modrinth.com/organization/coffeedevs
+      link: https://modrinth.com/organization/modcafe
     - theme: alt
       text: GitHub
-      link: https://github.com/coffeedevsmc/coffeedevsmc.github.io
+      link: https://github.com/modcafe/modcafe.github.io
 
 features:
   - title: No Foliage
     details: Boost your FPS be removing the nasty grass with a simple texturepack!
 
   - title: Fallback
-    details: Another Library Mod with shared code for Intense's and CoffeeDevs' Datapacks.
+    details: Another Library Mod with shared code for Intense's and Modcafe's Datapacks.
 
   - title: Cratty
     details: An Icon Library for Minecraft to use Icons in your Mods, Datapacks, Texturepacks and so on.
