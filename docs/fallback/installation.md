@@ -25,9 +25,9 @@ You can download and install Fallback using three different methods:
 6. Create and open the world
 
 ### 3. Installing Fallback as a Mod
-::: DANGER
-Every Mod-Loader and Programm installs Mods differently.
+::: danger Why is there no Tutorial?
+Every Mod-Loader and Programm installs Mods differently. We can't provide the ONE always working answer.
 :::
 
 
-Then, you're ready to go.
+If you've installed Fallback, you're ready to go.
