@@ -1,6 +1,7 @@
 ---
 title: Fallback Installation
 authors: Intensed
+next: false
 ---
 
 # Install Fallback
