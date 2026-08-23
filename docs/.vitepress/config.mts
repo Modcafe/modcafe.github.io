@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   lang: 'en-US',
 
-  title: 'CoffeeDevs Docs beta',
+  title: 'CoffeeDevs Docs <Badge type="tip" text="0.9.3" />',
   description: 'CoffeeDevs Documentation for all of our Projects',
 
   base: '/',
