@@ -3,6 +3,6 @@ title: Cratty
 authors: Intensed
 ---
 
-# {{ $frontmatter.title }}
+# Getting started with Cratty
 
 Cratty is a Minecraft Resource Pack that adds an Icon Library to Minecraft.
