@@ -53,6 +53,10 @@ export default defineConfig({
           {
             text: 'Getting Started',
             link: '/fallback'
+          },
+          {
+            text: 'Installation',
+            link: '/fallback/installation'
           }
         ]
       },
