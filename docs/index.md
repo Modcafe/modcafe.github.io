@@ -7,6 +7,9 @@ hero:
   name: CoffeeDevs
   text: docs
   tagline: Developer documentation for CoffeeDevs
+  image:
+    src: /CoffeeDevs.png
+    alt: CoffeeDevs
   actions:
     - theme: brand
       text: Get Started
