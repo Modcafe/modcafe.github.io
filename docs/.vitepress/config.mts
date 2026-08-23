@@ -30,15 +30,15 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'CoffeDevs docs',
+        text: 'CoffeeDevs docs',
         items: [
           {
             text: 'Home',
             link: '/'
           },
           {
-            text: 'Projects',
-            link: '/projects'
+            text: 'Licenses',
+            link: '/licenses'
           }
         ]
       }
