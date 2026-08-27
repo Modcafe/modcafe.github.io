@@ -38,7 +38,7 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Modcafe',
+        text: 'About Modcafe',
         items: [
           {
             text: 'Getting Started',
@@ -47,38 +47,28 @@ export default defineConfig({
           {
             text: 'Licenses',
             link: '/licenses'
+          },
+          {
+            text: 'Cratty',
+            link: '/cratty/getting-started/'
+          },
+          {
+            text: 'Fallback',
+            link: '/fallback/getting-started/'
           }
         ]
+      },
+      {
+        text: 'Guides',
+        items: []
       },
       {
         text: 'Cratty',
-        items: [
-          {
-            text: 'Getting Started',
-            link: '/cratty/getting-started'
-          },
-          {
-            text: 'Icon Overview',
-            link: '/cratty/icon-overview'
-          },
-          {
-            text: 'Use Icons',
-            link: '/cratty/use-icons'
-          }
-        ]
+        items: []
       },
       {
         text: 'Fallback',
-        items: [
-          {
-            text: 'Getting Started',
-            link: '/fallback/getting-started'
-          },
-          {
-            text: 'Installation',
-            link: '/fallback/installation'
-          }
-        ]
+        items: []
       }
     ],
 
